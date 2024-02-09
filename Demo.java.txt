@@ -5,4 +5,8 @@ public class Demo {
      System.out.println("Hello")
        int K = 20;
    }
+      // for CR-122
+      public void doProces(){
+         //logic
+  }
 }
